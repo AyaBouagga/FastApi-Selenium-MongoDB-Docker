@@ -47,7 +47,8 @@ All tools required go here. You would require the following tools to develop and
 
 ### Installation
 
-No Installation needs - Docker controlled
+No Installation needed - Docker controlled
+version
 
 ## Development
 
@@ -92,16 +93,3 @@ sudo docker-compose up
 ```
 
 
-
-[//]: # (HyperLinks)
-
-[GitHub Repository]: https://github.com/madhur-taneja/README-Template
-[GitHub Pages]: https://madhur-taneja.github.io/README-Template
-[CONTRIBUTING.md]: https://github.com/madhur-taneja/README-template/blob/master/CONTRIBUTING.md
-[tags]: https://github.com/madhur-taneja/README-template/tags
-
-[GitHub]: https://github.com/madhur-taneja
-[LinkedIn]: https://www.linkedin.com/in/madhur-taneja/
-
-[contributors]: https://github.com/madhur-taneja/README-template/contributors
-[license]: https://github.com/madhur-taneja/README-template/blob/master/LICENSE.md
