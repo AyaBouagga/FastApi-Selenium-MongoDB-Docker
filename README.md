@@ -22,7 +22,7 @@ Open and view the Project using the `.zip` file provided or at my [GitHub Reposi
 ## Getting Started
 
 ```
-	project-title
+	scraping-service 
 	├── README.md
 	├── docker-compose.yaml
 	├── dockerfile
